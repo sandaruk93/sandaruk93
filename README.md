@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+A vibe coder turned developer. Learning to code with AI. Cursor fan. Working on personal projects while building Mindvalley, the world's largest personal transformation platform. 
+🔭 I’m currently working on an iOS mobile app that can record a voice note and extract tasks to create daily to-do lists
+- 🌱 I’m currently learning python. Leetcoding every day.
 <!--
 **sandaruk93/sandaruk93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
