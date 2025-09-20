@@ -2,7 +2,7 @@
 
 🚀 **Senior Product Manager | AI & Full-Stack Enthusiast | Builder of Digital Products**  
 
-With 7+ years of experience shipping impactful products, I now blend **product thinking with hands-on coding** — building prototypes, AI-powered tools, and developer-focused platforms. My focus is on **applied AI, and productivity tools **, where I combine research and development to bring ideas to life.  
+With 7+ years of experience shipping impactful products, I now blend **product thinking with hands-on coding** — building prototypes, AI-powered tools, and developer-focused platforms. My focus is on **applied AI, and productivity tools**, where I combine research and development to bring ideas to life.  
 
 --- 
 
