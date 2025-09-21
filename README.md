@@ -38,14 +38,14 @@ With 7+ years of experience shipping impactful products, I now blend **product t
 
 ---
 
-## 📚 Research & Learning
+## 📚 Research & Education
 - MSc in **Business Analytics** (Distinction) – Thesis: *Sentiment Analysis of Social Media Images using Object Detection & Caption Generation*  
-- Currently exploring **Spatiotemporal AI, LLM-based reasoning, and AI-driven productivity tools.**
+- BSc in **Electrical Engineering** -  Thesis: *Droop Based Voltage and Frequency Controller for an Islanded AC Micro-Grid*
 ---
 
 ## 📫 Let’s Connect!
 - [LinkedIn](https://www.linkedin.com/in/sandaru-suranjaya)  
-- [Photography IG](https://instagram.com/sandaru.photo)  
+- [Photography IG](https://instagram.com/sandaru.graphy)  
 - [Personal IG](https://instagram.com/sandaru.space)  
 
 ---
