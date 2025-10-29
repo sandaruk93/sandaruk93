@@ -2,15 +2,15 @@
 
 🚀 **Senior Product Manager | AI & Full-Stack Enthusiast | Builder of Digital Products**  
 
-With 7+ years of experience shipping impactful products, I now blend **product thinking with hands-on coding** — building prototypes, AI-powered tools, and developer-focused platforms. My focus is on **applied AI, and productivity tools**, where I combine research and development to bring ideas to life.  
+With 7+ years of experience building amazing products, I now blend **product thinking with hands-on coding** — building prototypes, AI-powered tools, and developer-focused platforms. My focus is on **applied AI, and productivity tools**, where I combine research and development to bring ideas to life.  
 
 --- 
 
 ## 🔧 Tech & Tools I Use
-- **Languages**: Python, SQL, JavaScript  
-- **Frameworks**: React, Node.js, Flask  
+- **Languages**: Python, JavaScript  
+- **Frameworks**: React, Node.js, Flutter
 - **Productivity Tools**: Notion, Jira, Confluence, Figma  
-- **Analytics**: Mixpanel, Amplitude, Google Analytics  
+- **Analytics**: Amplitude, Google Analytics  
 
 ---
 
@@ -40,7 +40,9 @@ With 7+ years of experience shipping impactful products, I now blend **product t
 
 ## 📚 Research & Education
 - MSc in **Business Analytics** (Distinction) – Thesis: *Sentiment Analysis of Social Media Images using Object Detection & Caption Generation*  
-- BSc in **Electrical Engineering** -  Thesis: *Droop Based Voltage and Frequency Controller for an Islanded AC Micro-Grid*
+- BSc in **Engineering** -  Thesis: *Droop Based Voltage and Frequency Controller for an Islanded AC Micro-Grid*
+
+- Published papers: https://ieeexplore.ieee.org/document/8480964?signout=success
 ---
 
 ## 📫 Let’s Connect!
