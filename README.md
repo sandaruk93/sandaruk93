@@ -2,22 +2,24 @@
 
 🚀 **Senior Product Manager | AI & Full-Stack Enthusiast | Builder of Digital Products**  
 
-With 7+ years of experience building amazing products, I now blend **product thinking with hands-on coding** — building prototypes, AI-powered tools, and developer-focused platforms. My focus is on **applied AI, and productivity tools**, where I combine research and development to bring ideas to life.  
+I blend **product thinking with hands-on coding** — building prototypes, AI-powered tools, and productivity-focused platforms. I combine research and development to bring ideas to life.  
 
 --- 
 
 ## 🔧 Tech & Tools I Use
-- **Languages**: Python, JavaScript  
-- **Frameworks**: React, Node.js, Flutter
+- **AI coding platforms**: Antigravity, Cursor
 - **Productivity Tools**: Notion, Jira, Confluence, Figma  
 - **Analytics**: Amplitude, Google Analytics  
 
 ---
 
-## 📌 Featured Projects
+## 📌 Products I have vibe coded
 
-### Mindvalley - World's largest personal transformation platform
-- Driving product strategy for a product ecosystem with over 200K active subscribers
+### Personal website 
+- My personal playground on the internet. Started with a Figma design of my own, scalable website to showcase different projects I work on. Hosted on GitHub pages, so feel free to reuse the template. 
+
+### Photography portfolio
+- Any photographer who take their work serious should have their own portfolio. Not on Squarespace, not on Behance, their own website with high customizability. If you are such a photographer, feel free to clone the repo. 
 
 ### 📝 Omnia — Meeting Transcript → Google Tasks
 - AI-powered task manager that extracts action items from meeting transcripts and creates tasks in Google Tasks via Google APIs.  
@@ -26,10 +28,6 @@ With 7+ years of experience building amazing products, I now blend **product thi
 ### 🎙️ Voice-to-Task App
 - iOS/Android app where you record a voice note and the app automatically converts it into structured tasks.  
 - Stack: `React Native`, `Firebase`, `Speech-to-Text APIs`
-
-### 🎮 IMI Games Platform
-- Scaled to **100K DAU**, South Asia’s largest hypercasual gaming library.  
-- Built and launched under tight deadlines, leading cross-functional engineering & design teams.
 
 ### 📊 Social Reach (AI CRM)
 - AI-powered platform for **real-time brand sentiment analysis**.  
@@ -47,9 +45,6 @@ With 7+ years of experience building amazing products, I now blend **product thi
 
 ## 📫 Let’s Connect!
 - [LinkedIn](https://www.linkedin.com/in/sandaru-suranjaya)  
-- [Photography IG](https://instagram.com/sandaru.graphy)  
-- [Personal IG](https://instagram.com/sandaru.space)  
+- [Instagram](https://instagram.com/sandaru.me)  
 
 ---
-
-⭐️ Always building at the intersection of **AI, product, and user experience**.  
