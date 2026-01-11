@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sandaru Suranjaya  
 
-🚀 **Senior Product Manager | AI & Full-Stack Enthusiast | Builder of Digital Products**  
+🚀 **Program Manager who happen to build products**  
 
 I blend **product thinking with hands-on coding** — building prototypes, AI-powered tools, and productivity-focused platforms. I combine research and development to bring ideas to life.  
 
