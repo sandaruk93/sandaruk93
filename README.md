@@ -13,7 +13,7 @@ I blend **product thinking with hands-on coding** — building prototypes, AI-po
 
 ---
 
-## 📌 Products I have vibe coded
+## 📌 Projects
 
 ### Personal website 
 - My personal playground on the internet. Started with a Figma design of my own, scalable website to showcase different projects I work on. Hosted on GitHub pages, so feel free to reuse the template. https://sandaru.me
@@ -28,11 +28,6 @@ I blend **product thinking with hands-on coding** — building prototypes, AI-po
 ### Voice-to-Task App
 - iOS/Android app where you record a voice note and the app automatically converts it into structured tasks.  
 - Stack: `React Native`, `Firebase`, `Speech-to-Text APIs`
-
-### Social Reach (AI CRM)
-- AI-powered platform for **real-time brand sentiment analysis**.  
-- Used by enterprises and government to monitor fake news & misinformation.  
-- Stack: `Python`, `NLP`, `Computer Vision`
 
 ---
 
